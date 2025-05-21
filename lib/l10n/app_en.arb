@@ -1,0 +1,54 @@
+{
+  "@@locale": "en",
+  "english" : "English",
+  "arabic" : "Arabic",
+  "cancel": "Cancel",
+  "create": "Create",
+  "update": "Update",
+  "title_task": "Title",
+  "description": "Description",
+  "title_hint": "Add a note title...",
+  "des_hint": "Add description...",
+  "new_task": "New Note",
+  "category": "Category",
+  "date": "Date",
+  "time": "Time",
+  "date_hint": "dd/mm/yy",
+  "time_hint": "hh:mm",
+  "title_error": "Please enter a title",
+  "date_error": "Please enter a date",
+  "time_error": "Please enter a time",
+  "delete": "Delete",
+  "no": "No",
+  "delete_task": "Do you really want to delete\nthis note?",
+  "select_preferred_language": "Select your preferred language",
+  "new_task": "New Note",
+  "working": "Working",
+  "general": "General",
+  "learning": "Learning",
+  "your_task": "Note List",
+  "hi": "Hi",
+  "save": "Save",
+  "no_task": "No Note",
+  "no_task_des": "Sorry! There's nothing to show now!",
+
+  "fail_delete": "Failed to delete note.",
+  "success_delete" : "The note has been deleted",
+
+  "fail_update": "Failed to update note.",
+  "success_update" : "The note has been updated",
+
+  "fail_add": "Failed to added note.",
+  "success_add" : "A new note has been added.",
+
+
+  "fail_status": "Failed to updated status.",
+  "success_status" : "A note status has been updated.",
+
+
+  "next": "Next",
+  "save":"Save",
+  "welcome_todo_app": "Welcome NoteFlow"
+
+
+}
