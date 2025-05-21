@@ -30,7 +30,7 @@ A clean and scalable **Flutter Notes App** built using Clean Architecture, Fireb
 ---
 
 ### 3. 🏠 Dashboard (Home Page)
-- Displays all notes created by the **currently logged-in user**
+- Displays all notes
 - List view includes:
     - Title
     - Short preview of description
